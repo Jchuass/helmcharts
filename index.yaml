@@ -3,12 +3,12 @@ entries:
   myhelmapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-10T09:19:57.198661706+05:30"
+    created: "2022-05-10T10:02:07.140513548+05:30"
     description: A Helm chart for Kubernetes
     digest: b5767cbe36ff276ba36f4bad8ff3bca514dbd7421d60d77b2a70939c1af2d094
     name: myhelmapp
     type: application
     urls:
-    - https://github.com/Jchuass/helmcharts.io/myhelmapp/myhelmapp-0.1.0.tgz
+    - https://jchuass.github.io/helmcharts/myhelmapp/myhelmapp-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-10T09:19:57.196194236+05:30"
+generated: "2022-05-10T10:02:07.138658488+05:30"
